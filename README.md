@@ -8,6 +8,8 @@ git push - se suben los cambios
 git log - para ver los cambios que se han realizado
 git branch "name" - creacion de rama
 git checkout "name branch" - ubicarse en la rama
+git log --oneline --decorate --all --graph - cambios realizados con una vista distinta
+git merge
 <span>![</span><span>Screenshot de la consola con el uso de los comandos.</span><span>]</span><span>
 (</span><span>https://raw.githubusercontent.com/JohanRiveraMunoz/JRM-Repo/main/assets/</span><span>)</span>
 
